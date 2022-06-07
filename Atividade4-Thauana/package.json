@@ -1,0 +1,25 @@
+{
+  "name": "atividade-correcao",
+  "version": "1.0.0",
+  "description": "- Instalar as dependências do projeto: `npm install`\r  - Executar os testes: `npm test`",
+  "main": "index.js",
+  "directories": {
+    "test": "testes"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismagoes/atividade1final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismagoes/atividade1final/issues"
+  },
+  "homepage": "https://github.com/ismagoes/atividade1final#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
